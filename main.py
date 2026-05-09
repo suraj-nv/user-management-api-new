@@ -12,4 +12,4 @@ app.include_router(routers.router)
 
 @app.get("/")
 def home():
-    return {"message": "User Management System"}
+    return {"message": "User Management System API"}
