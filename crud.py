@@ -5,7 +5,7 @@ from utils import hash_password
 from utils import verify_password
 
 # =========================
-# CREATE USER
+# CREATE USERs
 # =========================
 
 
